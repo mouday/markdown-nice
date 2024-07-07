@@ -380,7 +380,8 @@ class App extends Component {
                   <section
                     id={LAYOUT_ID}
                     data-tool="mdnice编辑器"
-                    data-website="https://www.mdnice.com"
+                    data-code-from="https://www.mdnice.com"
+                    data-website="https://mouday.github.io/markdown-nice"
                     dangerouslySetInnerHTML={{
                       __html: parseHtml,
                     }}
