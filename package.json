@@ -6,7 +6,7 @@
   "private": false,
   "main": "lib/Lib.js",
   "module": "lib/Lib.js",
-  "homepage": "https://www.mdnice.com",
+  "homepage": "https://mouday.github.io/markdown-nice",
   "license": "GPL-3.0",
   "typings": "./lib/index.d.ts",
   "repository": {
